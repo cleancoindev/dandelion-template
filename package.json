@@ -51,7 +51,7 @@
     "@aragon/os": "4.3.0",
     "@aragon/templates-shared": "^1.0.0",
     "bn.js": "^5.0.0",
-    "openzeppelin-solidity": "2.0.1"
+    "openzeppelin-solidity": "2.5.1"
   },
   "devDependencies": {
     "@aragon/templates-shared": "^1.0.1",
